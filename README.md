@@ -2,7 +2,7 @@
 <h3 align="center">
 <hr>🚀 Looking to learn and develop in the fascinating world of information technology (IT) and systems engineering. Passionate about information management and the creation of innovative technological solutions. 
 <hr>
-🔍 Currently, I hold the position of Commercial Planning Practitioner, where I apply my dedication and analytical skills to contribute to the strategic success of commercial projects. 
+🔍 Currently, I hold the position of COE D&A Practitioner, where I apply my dedication and analytical skills to contribute to the strategic success of commercial projects. 
 <hr>
 🎓 Systems Engineering Student. My solid academic background and my constant desire to excel have allowed me to stand out academically as the top tenth. 
 <hr>
