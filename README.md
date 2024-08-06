@@ -2,11 +2,11 @@
 <h3 align="center">
 <hr>🚀 Looking to learn and develop in the fascinating world of information technology (IT) and systems engineering. Passionate about information management and the creation of innovative technological solutions. 
 <hr>
-🔍 Currently, I hold the position of COE D&A Practitioner, where I apply my dedication and analytical skills to contribute to the strategic success of commercial projects. 
+🔍 Currently, I hold the position of COE D&A Data Engineer, where I apply my dedication and analytical skills to contribute to the strategic success of commercial projects. 
 <hr>
-🎓 Systems Engineering Student. My solid academic background and my constant desire to excel have allowed me to stand out academically as the top tenth. 
+🎓 Systems Engineering. My solid academic background and my constant desire to excel have allowed me to stand out academically as the top tenth. 
 <hr>
-🛠️ With a special focus on data management, I am on my way towards my goal of becoming a Data Engineer. My interest in designing and optimizing efficient data structures is combined with my passion for contributing to solid information-based business practices. 
+🛠️ With a special focus on data management. My interest in designing and optimizing efficient data structures is combined with my passion for contributing to solid information-based business practices. 
 <hr>
 💡 Always ready to embrace challenges, I am determined to learn and grow in a dynamic IT environment. My long-term vision is to be an influential professional in the field of systems engineering, leading projects that take advantage of technology to positively impact the world. Connect with me to discuss opportunities for collaboration, innovation, and development in the exciting technology and engineering landscape!</h3>
 
